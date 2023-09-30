@@ -1,0 +1,15 @@
+{
+  "contact": "KingHarry25",
+  "templates": [
+    {
+      "name": "ManeTemp",
+      "sources": [
+        "https://raw.githubusercontent.com/KingHarry25/2023placething/main/maneplace/manetemp.png"
+      ],
+      "x": 96,
+      "y": 418
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
